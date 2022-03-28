@@ -44,7 +44,14 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/albamarfdc'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
-<h2> My Projects</h2>
+<div>
+
+ <div align="center"> 
+ <h1>📌My Projects</h1>
+  </div>
+
+  
+  </div>
 
   <h2>CriptoApp</h2> <h3> Used technology: <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a></h3>
   <div>
