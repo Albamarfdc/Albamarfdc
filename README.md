@@ -53,7 +53,8 @@
  <h2>Clock 12/24 </h2>
  <h3> Used technology: <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> </h3>
-  <img height="45%" width="45%"  src ="https://github.com/Albamarfdc/clock/blob/main/Clock.png">
+  <img height="35%" width="35%"  src ="https://github.com/Albamarfdc/clock/blob/main/Clock.png">
+  <img height="60%"  width ='45%' src =https://github.com/Albamarfdc/clock/blob/main/clock_Trim%20(1).gif>
   </div>
 
   <h2>CriptoApp</h2> <h3> Used technology: <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a></h3>
