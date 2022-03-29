@@ -57,7 +57,7 @@
   <img height="60%"  width ='45%' src =https://github.com/Albamarfdc/clock/blob/main/clock_Trim%20(1).gif>
   </div>
 
-  <h2>CriptoApp</h2> <h3> Used technology: <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a></h3>
+  <h2>CriptoApp</h2> <h3> Used technology: <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>  <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a></h3>
   <div>
 <img height="45%" width="45%"  src ="https://github.com/Albamarfdc/criptoApp/blob/main/src/components/home.png">
 <img height="30%" width="31%"  src = "https://github.com/Albamarfdc/criptoApp/blob/main/src/components/detail.png">
@@ -65,7 +65,7 @@
 <p></p>
 
   <h2>Poke-App</h2>
-  <h3> Used technology: <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a> <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+  <h3> Used technology: <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>  <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a> <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
 <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
 <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
