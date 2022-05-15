@@ -78,6 +78,26 @@
   <img height="40%" width="40%" src ="https://github.com/Albamarfdc/PokeApp/blob/main/client/src/components/assets/Details.png">
   <img height="40%" width="40%" src ="https://github.com/Albamarfdc/PokeApp/blob/main/client/src/components/assets/Form.png">
   </div>
+ <a href = 'https://pokemonapp-jade.vercel.app/'</a>
+ 
+ 
+ 
+ <h2>Clon Netflix</h2>
+ <h3> Used technology:<a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> <a href= https://github.com/albamarfdc?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a><a href= https://github.com/?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a> </h3>
+  
+  <div>
+   <a> <img height="40%" width="40%" src = "https://github.com/Albamarfdc/clonNetflix-firebase-react/blob/main/src/components/assets/movieApp1.png">
+   <a> <img height="40%" width="40%" src = "https://github.com/Albamarfdc/clonNetflix-firebase-react/blob/main/src/components/assets/movieApp2.png">
+   <a> <img height="40%" width="40%" src = "https://github.com/Albamarfdc/clonNetflix-firebase-react/blob/main/src/components/assets/movieApp3.png">
+   <a> <img height="40%" width="40%" src = "https://github.com/Albamarfdc/clonNetflix-firebase-react/blob/main/src/components/assets/movieApp4.png">
+  </div>
+  
+ 
+ 
+ 
+ 
+ 
 
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
