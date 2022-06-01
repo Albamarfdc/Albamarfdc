@@ -7,15 +7,15 @@
 
 </p>
 <div>
-<h1> Hello!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px>  My name is Albamar, Im Fullstack Developer </h1>
+<h1> Hello! My name is Albamar, Im Fullstack Developer </h1>
 <p align='center'></h1> 
 <h3> As a creative and highly motivated person, I am able to adapt to any circumstance.  I would like to grow professionally where I can improve my knowledge and grow professionally day by day  </h3>
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me</h2>
 
-<img width="40%" align="right" alt="Github" src="https://static.wixstatic.com/media/8deefe_80cb5313220e4217995accab1ed24981~mv2.gif" />
 
+ <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 - 🔭 I’m currently working on Personal Project
 
