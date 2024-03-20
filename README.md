@@ -33,7 +33,9 @@ passions: [Create_and_program]
 
 
 <h2> Connect with me </h2>
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falbamarfdc%2F&down_message=active&down_color=%2343E55E&style=plastic&logo=Linkedin&logoColor=%230A66C2&label=Linkedin&labelColor=white)
+
+<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falbamarfdc%2F&down_message=active&down_color=%2343E55E&style=plastic&logo=Linkedin&logoColor=%230A66C2&label=Linkedin&labelColor=white">
+
 
 <a href = 'https://albamarflores.vercel.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 
