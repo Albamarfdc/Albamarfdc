@@ -11,6 +11,13 @@
 </div>
 
 
+## Below is a codeblock with javascript - with syntax highlighting
+```javascript
+const myFunction = () => {
+    console.log("This is my function");
+}
+```
+
 
 <h2> My Tech Stack </h2>
 
