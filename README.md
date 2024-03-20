@@ -3,14 +3,14 @@
 <img width="100%" height = "350px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Vc2-Zbqg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/guhvpoderb4koy6xibqv.png" alt="cover" />
 </div>
 
-
 ```javascript
 const USER = [{ 
+$${\color{red}name: "Albamar", \space \color{lightblue}To \space \color{lightgreen}Github}$$
 name: "Albamar",
 lastName: "Flores",
 ocupation: ["Graphic designer", "Sofware Developer"],
-aboutMe: ["As a creative and highly motivated person, I am able to adapt to any circumstance".
-           "I would like to grow professionally where I can improve my knowledge and grow professionally day by day"],
+aboutMe: ["As a creative and highly motivated person, I am able to adapt to any circumstance"."I would like to grow professionally where 
+           I can improve my knowledge and grow professionally day by day"],
 passions: ["Create and program"],
 }]
 
