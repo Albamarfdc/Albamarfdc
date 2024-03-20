@@ -19,7 +19,9 @@
 ```
 
 <h2> My Tech Stack </h2>
-<div align="center">
+
+<div align="center"> 
+  
 ![Static Badge](https://img.shields.io/badge/Javascript-%23000000?style=plastic&logo=javaScript&logoColor=%23F7DF1E) ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=Typescript&logoColor=3178C6&labelColor=white)  ![Static Badge](https://img.shields.io/badge/Html5-E34F26?style=plastic&logo=Html5&logoColor=E34F26&labelColor=white)  ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=61DAFB&labelColor=black)  ![Static Badge](https://img.shields.io/badge/Angular-c3002f?style=plastic&logo=Angular&logoColor=c3002f&labelColor=white)  ![Static Badge](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=Next.js&logoColor=%23000000&labelColor=white)  ![Static Badge](https://img.shields.io/badge/Css3-1572B6?style=plastic&logo=Css3&logoColor=1572B6&labelColor=white)  ![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=%237952B3&labelColor=white)  ![Static Badge](https://img.shields.io/badge/TailwindCss-%2306B6D4?style=plastic&logo=Tailwind%20Css&logoColor=%2306B6D4&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/Node-%23339933?style=plastic&logo=Node.js&logoColor=%23339933&labelColor=black)  ![Static Badge](https://img.shields.io/badge/Express-%23000000?style=plastic&logo=Express&logoColor=%23000000&labelColor=white)  ![Static Badge](https://img.shields.io/badge/Handlebars-%23000000?style=plastic&logo=Handlebars.js&logoColor=%23000000&labelColor=CC5500)  ![Static Badge](https://img.shields.io/badge/pug-%23A86454?style=plastic&logo=Pug&logoColor=%23A86454&labelColor=white)
@@ -32,6 +34,7 @@
 
 ![Static Badge](https://img.shields.io/badge/illustrator-%23300000?style=plastic&logo=adobe%20illustrator&logoColor=%23FF9A00&labelColor=%23300000)  ![Static Badge](https://img.shields.io/badge/Photoshop-%23004480?style=plastic&logo=adobe%20photoshop&logoColor=%2331A8FF&labelColor=%23004480)  ![Static Badge](https://img.shields.io/badge/Indesign-%23FF3366?style=plastic&logo=adobe%20indesign&logoColor=%23FF3366&labelColor=white)  ![Static Badge](https://img.shields.io/badge/Figma-%23FF7362?style=plastic&logo=figma&logoColor=white&labelColor=A158FF)
  ![Static Badge](https://img.shields.io/badge/markdown-%23000000?style=plastic&logo=markdown)
+ 
 </div>
 
 <h2> Connect with me </h2>
