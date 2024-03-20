@@ -25,9 +25,7 @@
 
 <h2> Skills</h2>
 
-![Static Badge](https://img.shields.io/badge/Javacript-F7DF1E?style=plastic&logo=javascript&logoColor=F7DF1E&labelColor=black)
-
-![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=Typescript&logoColor=3178C6&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Javacript-F7DF1E?style=plastic&logo=javascript&logoColor=F7DF1E&labelColor=black) ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=Typescript&logoColor=3178C6&labelColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Html5-E34F26?style=plastic&logo=Html5&logoColor=E34F26&labelColor=white)
 
