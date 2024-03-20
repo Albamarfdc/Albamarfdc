@@ -5,10 +5,9 @@
 
 ```javascript
 const USER = [{ 
-$${\color{red}name Albamar, \space \color{lightblue}To \space \color{lightgreen}Github}$$
 name: "Albamar",
 lastName: "Flores",
-ocupation: ["Graphic designer", "Sofware Developer"],
+ocupation: [Graphic designer, Sofware Developer],
 aboutMe: ["As a creative and highly motivated person, I am able to adapt to any circumstance"."I would like to grow professionally where 
            I can improve my knowledge and grow professionally day by day"],
 passions: ["Create and program"],
