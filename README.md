@@ -9,11 +9,7 @@
 <p align='center'></h1> 
 <h3> As a creative and highly motivated person, I am able to adapt to any circumstance.  I would like to grow professionally where I can improve my knowledge and grow professionally day by day  </h3>
 </div>
-   const FabianPinoP = {
-    passions: ['web development'],
-    AboutMe: [ "As a creative and highly motivated person, I am able to adapt to any circumstance.I would like to grow professionally where I can improve my knowledge and grow professionally day by day"]
-  } 
-Let myStack: 
+ 
 
 <h2> My Tech Stack </h2>
 
