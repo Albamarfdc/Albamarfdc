@@ -33,7 +33,7 @@ passions: [Create_and_program]
 
 
 <h2> Connect with me </h2>
-![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=plastic&logo=linkedin&logoColor=%230A66C2&labelColor=white) <a href = 'https://www.linkedin.com/in/albamarfdc/'>
+<a href = 'https://www.linkedin.com/in/albamarfdc/'></a>
 <a href = 'https://albamarflores.vercel.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 
 
