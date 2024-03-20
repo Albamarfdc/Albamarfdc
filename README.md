@@ -22,7 +22,7 @@ passions: [Create_and_program]
 ![Static Badge](https://img.shields.io/badge/Node-%23339933?style=plastic&logo=Node.js&logoColor=%23339933&labelColor=black) ![Static Badge](https://img.shields.io/badge/Express-%23000000?style=plastic&logo=Express&logoColor=%23000000&labelColor=white) ![Static Badge](https://img.shields.io/badge/Handlebars-%23000000?style=plastic&logo=Handlebars.js&logoColor=%23000000&labelColor=CC5500) ![Static Badge](https://img.shields.io/badge/pug-%23A86454?style=plastic&logo=Pug&logoColor=%23A86454&labelColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Postgresql-%234169E1?style=plastic&logo=postgresql&logoColor=%234169E1&labelColor=black) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=plastic&logo=MySQL&logoColor=%234479A1&labelColor=white) ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=plastic&logo=MongoDB&logoColor=%2347A248&labelColor=black) ![Static Badge](https://img.shields.io/badge/Firebase-%23FFCA28?style=plastic&logo=Firebase&logoColor=%23FFCA28&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Mongoose-%23880000?style=plastic&logo=Mongoose&logoColor=%23880000&labelColor=white) ![Static Badge](https://img.shields.io/badge/Sequelize-%2352B0E7?style=plastic&logo=sequelize&logoColor=%2352B0E7&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Mongoose-%23880000?style=plastic&logo=Mongoose&logoColor=%23880000&labelColor=white) ![Static Badge](https://img.shields.io/badge/Sequelize-%2352B0E7?style=plastic&logo=sequelize&logoColor=%2352B0E7&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Jest-%23C21325?style=plastic&logo=Jest)
 ![Static Badge](https://img.shields.io/badge/Mocha-%238D6748?style=plastic&logo=Mocha&labelColor=white)
 
