@@ -3,23 +3,17 @@
 <img width="100%" height = "350px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Vc2-Zbqg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/guhvpoderb4koy6xibqv.png" alt="cover" />
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=albamarfdc.albamarfdc)
 
-</p>
 <div>
 <h1> Hello! Im Albamar, Frontend Developer </h1>
 <p align='center'></h1> 
 <h3> As a creative and highly motivated person, I am able to adapt to any circumstance.  I would like to grow professionally where I can improve my knowledge and grow professionally day by day  </h3>
 </div>
-
-<h2> About Me</h2>
-
-
-- 🔭 I’m currently working on Personal Project
-
-- 🌱 I’m learning  at the same time improving new tecnologies
-
-- 👯 I’m looking to collaborate on Projects  
+   const FabianPinoP = {
+    passions: ['web development'],
+    AboutMe: [ "As a creative and highly motivated person, I am able to adapt to any circumstance.I would like to grow professionally where I can improve my knowledge and grow professionally day by day"]
+  } 
+Let myStack: 
 
 <h2> My Tech Stack </h2>
 
