@@ -34,13 +34,9 @@
 ![Static Badge](https://img.shields.io/badge/markdown-%23000000?style=plastic&logo=markdown)
 
 
-https://www.linkedin.com/in/albamarfdc/
 <h2> Connect with me </h2>
 
   <a href="https://www.linkedin.com/in/albamarfdc/"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230A66C2?style=plastic&logo=linkedin&logoColor=%230A66C2&labelColor=white"></a>
-
-
-<a href = 'https://albamarflores.vercel.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 
 
 
