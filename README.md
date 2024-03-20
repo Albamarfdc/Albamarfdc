@@ -37,7 +37,7 @@
 
 <h2> Connect with me </h2>
 
-  <a href="https://www.linkedin.com/in/albamarfdc/"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230A66C2?style=plastic&logo=linkedin&logoColor=%230A66C2&labelColor=white"></a><a href="mailto:albamarf3@gmail.com"><img src="https://img.shields.io/badge/Gmail--white?style=plastic&logo=gmail&labelColor=white" alt="gmail"></a>
+  <a href="https://www.linkedin.com/in/albamarfdc/"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230A66C2?style=plastic&logo=linkedin&logoColor=%230A66C2&labelColor=white"></a>  <a href="mailto:albamarf3@gmail.com"><img src="https://img.shields.io/badge/Gmail--white?style=plastic&logo=gmail&labelColor=white" alt="gmail"></a>
 
 
 
