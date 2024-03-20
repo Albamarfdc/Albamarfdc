@@ -5,7 +5,7 @@
 
 ```javascript
 const USER = [{ 
-$${\color{red}name: "Albamar", \space \color{lightblue}To \space \color{lightgreen}Github}$$
+$${\color{red}name Albamar, \space \color{lightblue}To \space \color{lightgreen}Github}$$
 name: "Albamar",
 lastName: "Flores",
 ocupation: ["Graphic designer", "Sofware Developer"],
