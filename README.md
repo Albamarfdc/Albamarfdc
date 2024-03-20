@@ -34,8 +34,6 @@ passions: [Create_and_program]
 <h2> Connect with me </h2>
 
 
- <a href="https://www.linkedin.com/in/albamarfdc/"><img src="[https://img.shields.io/discord/612704110008991783?logo=discord&logoColor=white&label=Discord&color=5865F2](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falbamarfdc%2F&down_message=active&down_color=%2343E55E&style=plastic&logo=Linkedin&logoColor=%230A66C2&label=Linkedin&labelColor=white)" alt="discord"></a>
-
 
 https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falbamarfdc%2F&down_message=active&down_color=%2343E55E&style=plastic&logo=Linkedin&logoColor=%230A66C2&label=Linkedin&labelColor=white
 
