@@ -7,8 +7,9 @@
 const USER = { 
 fullName: Albamar_Flores,
 ocupation: [Graphic_designer, Sofware_Developer],
-aboutMe: ["As a creative and highly motivated person, I am able to adapt to any circumstance"."I would like to grow professionally where 
-           I can improve my knowledge and grow professionally day by day"],
+aboutMe: ["As a creative and highly motivated person, I am able to adapt to any circumstance".
+           "I would like to grow professionally where I can improve my knowledge and grow professionally day by day"
+         ],
 passions: [Create_and_program],
 }
 
