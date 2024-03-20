@@ -32,15 +32,7 @@
 ![Static Badge](https://img.shields.io/badge/Postgresql-%234169E1?style=plastic&logo=postgresql&logoColor=%234169E1&labelColor=black) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=plastic&logo=MySQL&logoColor=%234479A1&labelColor=white) ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=plastic&logo=MongoDB&logoColor=%2347A248&labelColor=black) ![Static Badge](https://img.shields.io/badge/Firebase-%23FFCA28?style=plastic&logo=Firebase&logoColor=%23FFCA28&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Mongoose-%23880000?style=plastic&logo=Mongoose&logoColor=%23880000&labelColor=white) ![Static Badge](https://img.shields.io/badge/Sequelize-%2352B0E7?style=plastic&logo=sequelize&logoColor=%2352B0E7&labelColor=black)
 
-![Static Badge](https://img.shields.io/badge/Firebase-%23FFCA28?style=plastic&logo=Firebase&logoColor=%23FFCA28&labelColor=black)
-
-![Static Badge](https://img.shields.io/badge/illustrator-%23300000?style=plastic&logo=adobe%20illustrator&logoColor=%23FF9A00&labelColor=%23300000)
-
-![Static Badge](https://img.shields.io/badge/Photoshop-%23004480?style=plastic&logo=adobe%20photoshop&logoColor=%2331A8FF&labelColor=%23004480)
-
-![Static Badge](https://img.shields.io/badge/Indesign-%23FF3366?style=plastic&logo=adobe%20indesign&logoColor=%23FF3366&labelColor=white)
-
-![Static Badge](https://img.shields.io/badge/Figma-%23FF7362?style=plastic&logo=figma&logoColor=white&labelColor=A158FF)
+![Static Badge](https://img.shields.io/badge/illustrator-%23300000?style=plastic&logo=adobe%20illustrator&logoColor=%23FF9A00&labelColor=%23300000) ![Static Badge](https://img.shields.io/badge/Photoshop-%23004480?style=plastic&logo=adobe%20photoshop&logoColor=%2331A8FF&labelColor=%23004480) ![Static Badge](https://img.shields.io/badge/Indesign-%23FF3366?style=plastic&logo=adobe%20indesign&logoColor=%23FF3366&labelColor=white) ![Static Badge](https://img.shields.io/badge/Figma-%23FF7362?style=plastic&logo=figma&logoColor=white&labelColor=A158FF)
 
 
 
