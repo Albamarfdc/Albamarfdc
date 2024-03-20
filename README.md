@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "350px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Vc2-Zbqg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/guhvpoderb4koy6xibqv.png" alt="cover" />
+<img width="100%" height = "400px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Vc2-Zbqg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/guhvpoderb4koy6xibqv.png" alt="cover" />
 </div>
 <br>
 
@@ -37,15 +37,13 @@
 
 <h2> Connect with me </h2>
 
-
-
-https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falbamarfdc%2F&down_message=active&down_color=%2343E55E&style=plastic&logo=Linkedin&logoColor=%230A66C2&label=Linkedin&labelColor=white
+  <a href="https://discord.gg/ZegqCBr"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230A66C2?style=plastic&logo=linkedin&logoColor=%230A66C2&labelColor=white"></a>
 
 
 <a href = 'https://albamarflores.vercel.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 
 
- 
+
 <h2> Some Programming Humor for you </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=highcontrast)
