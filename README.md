@@ -10,8 +10,7 @@ fullName: Albamar_Flores,
 ocupation: ["Graphic_designe", Sofware_Developer],
 aboutMe: ['As a creative and highly motivated person, I am able to adapt to any circumstance'.
           'I would like to grow professionally where I can improve my knowledge and grow professionally day by day'.],
-passions: [Create_and_program],
-
+passions: [Create_and_program]
 }
 ```
 
