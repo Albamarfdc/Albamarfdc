@@ -7,7 +7,7 @@
 ```javascript
 const USER = { 
 fullName: Albamar_Flores,
-ocupation: ["Graphic_designe", Sofware_Developer],
+ocupation: ["Graphic_designe", Software_Developer],
 aboutMe: ['As a creative and highly motivated person, I am able to adapt to any circumstance'.
           'I would like to grow professionally where I can improve my knowledge and grow professionally day by day'.],
 passions: [Create_and_program]
@@ -23,8 +23,13 @@ passions: [Create_and_program]
 
 ![Static Badge](https://img.shields.io/badge/Postgresql-%234169E1?style=plastic&logo=postgresql&logoColor=%234169E1&labelColor=black) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=plastic&logo=MySQL&logoColor=%234479A1&labelColor=white) ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=plastic&logo=MongoDB&logoColor=%2347A248&labelColor=black) ![Static Badge](https://img.shields.io/badge/Firebase-%23FFCA28?style=plastic&logo=Firebase&logoColor=%23FFCA28&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Mongoose-%23880000?style=plastic&logo=Mongoose&logoColor=%23880000&labelColor=white) ![Static Badge](https://img.shields.io/badge/Sequelize-%2352B0E7?style=plastic&logo=sequelize&logoColor=%2352B0E7&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Jest-%23C21325?style=plastic&logo=Jest)
+![Static Badge](https://img.shields.io/badge/Mocha-%238D6748?style=plastic&logo=Mocha&labelColor=white)
+
 
 ![Static Badge](https://img.shields.io/badge/illustrator-%23300000?style=plastic&logo=adobe%20illustrator&logoColor=%23FF9A00&labelColor=%23300000) ![Static Badge](https://img.shields.io/badge/Photoshop-%23004480?style=plastic&logo=adobe%20photoshop&logoColor=%2331A8FF&labelColor=%23004480) ![Static Badge](https://img.shields.io/badge/Indesign-%23FF3366?style=plastic&logo=adobe%20indesign&logoColor=%23FF3366&labelColor=white) ![Static Badge](https://img.shields.io/badge/Figma-%23FF7362?style=plastic&logo=figma&logoColor=white&labelColor=A158FF)
+![Static Badge](https://img.shields.io/badge/markdown-%23000000?style=plastic&logo=markdown)
+
 
 
 <h2> Connect with me </h2>
