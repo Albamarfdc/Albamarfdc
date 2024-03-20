@@ -7,7 +7,7 @@
 
 </p>
 <div>
-<h1> Hello! My name is Albamar, Im Fullstack Developer </h1>
+<h1> Hello! Im Albamar, Frontend Developer </h1>
 <p align='center'></h1> 
 <h3> As a creative and highly motivated person, I am able to adapt to any circumstance.  I would like to grow professionally where I can improve my knowledge and grow professionally day by day  </h3>
 </div>
@@ -23,7 +23,7 @@
 
 - 
 
-<h2 align="center"> My Tech Stack </h2>
+<h2> My Tech Stack </h2>
 
 ![Static Badge](https://img.shields.io/badge/Javacript-F7DF1E?style=plastic&logo=javascript&logoColor=F7DF1E&labelColor=black) ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=Typescript&logoColor=3178C6&labelColor=white) ![Static Badge](https://img.shields.io/badge/Html5-E34F26?style=plastic&logo=Html5&logoColor=E34F26&labelColor=white) ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=61DAFB&labelColor=black) ![Static Badge](https://img.shields.io/badge/Angular-c3002f?style=plastic&logo=Angular&logoColor=c3002f&labelColor=white) ![Static Badge](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=Next.js&logoColor=%23000000&labelColor=white) ![Static Badge](https://img.shields.io/badge/Css3-1572B6?style=plastic&logo=Css3&logoColor=1572B6&labelColor=white) ![Static Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=%237952B3&labelColor=white) ![Static Badge](https://img.shields.io/badge/TailwindCss-%2306B6D4?style=plastic&logo=Tailwind%20Css&logoColor=%2306B6D4&labelColor=black)
 
@@ -33,14 +33,6 @@
 ![Static Badge](https://img.shields.io/badge/Mongoose-%23880000?style=plastic&logo=Mongoose&logoColor=%23880000&labelColor=white) ![Static Badge](https://img.shields.io/badge/Sequelize-%2352B0E7?style=plastic&logo=sequelize&logoColor=%2352B0E7&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/illustrator-%23300000?style=plastic&logo=adobe%20illustrator&logoColor=%23FF9A00&labelColor=%23300000) ![Static Badge](https://img.shields.io/badge/Photoshop-%23004480?style=plastic&logo=adobe%20photoshop&logoColor=%2331A8FF&labelColor=%23004480) ![Static Badge](https://img.shields.io/badge/Indesign-%23FF3366?style=plastic&logo=adobe%20indesign&logoColor=%23FF3366&labelColor=white) ![Static Badge](https://img.shields.io/badge/Figma-%23FF7362?style=plastic&logo=figma&logoColor=white&labelColor=A158FF)
-
-
-
-
-
-
-
-
 
 
 <h2> Connect with me </h2>
