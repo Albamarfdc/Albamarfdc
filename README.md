@@ -16,10 +16,8 @@ const USER = {
 name: "Albamar",
 lastName: "Flores",
 aboutMe: [
-{"As a creative and highly motivated person,
- I am able to adapt to any circumstance.
- I would like to grow professionally where
-I can improve my knowledge and grow professionally day by day"
+{"As a creative and highly motivated person, I am able to adapt to any circumstance.
+ I would like to grow professionally where I can improve my knowledge and grow professionally day by day"
 }]
 passions: ["Create and program"  ],
 
