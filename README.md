@@ -2,7 +2,7 @@
 <div align="center">
 <img width="100%" height = "350px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Vc2-Zbqg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/guhvpoderb4koy6xibqv.png" alt="cover" />
 </div>
-
+<br>
 
 ```javascript
 const USER = { 
